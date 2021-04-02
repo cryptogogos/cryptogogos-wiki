@@ -4,7 +4,7 @@ module.exports = {
       resolve: 'gatsby-theme-apollo-docs',
       options: {
         root: __dirname,
-        siteName: 'CryptoGOGOs Wiki',
+        siteName: '',
         githubRepo: "https://github.com/cryptogogos/cryptogogos-wiki",
         twitterHandle: "https://twitter.com/cryptogogos",
         description: "CryptoGOGOs Wiki & Knowledge Base",
