@@ -1,6 +1,12 @@
 module.exports = {
   plugins: [
     {
+        resolve: `gatsby-plugin-s3`,
+        options: {
+            bucketName: 'cryptogogos-wiki',
+        },
+    },
+    {
       resolve: 'gatsby-theme-apollo-docs',
       options: {
         root: __dirname,

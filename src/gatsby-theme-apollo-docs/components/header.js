@@ -15,7 +15,6 @@ const Wrapper = styled.header({
 const InnerWrapper = styled.div({
   display: 'flex',
   alignItems: 'center',
-  justifyContent: 'flex-end',
   height: HEADER_HEIGHT,
   padding: '0 56px',
   backgroundColor: 'white',
@@ -30,11 +29,16 @@ const GithubIcon = styled.img({
     margin: 0
 })
 
+const Spacer = styled.div({
+    flex: 1
+})
 export default function Header(props) {
   return (
     <Wrapper>
       {props.beforeContent}
       <InnerWrapper>
+      {props.children}
+      <Spacer></Spacer>
         <a href="https://github.com/cryptogogos/cryptogogos-wiki" target="_blank" rel="noopener">
         <GithubIcon src={GithubSVG}/>
         </a>
