@@ -5,7 +5,8 @@ module.exports = {
       options: {
         root: __dirname,
         siteName: '',
-        githubRepo: "https://github.com/cryptogogos/cryptogogos-wiki",
+        githubRepo: "cryptogogos/cryptogogos-wiki",
+        githubHost: "https://github.com/",
         twitterHandle: "https://twitter.com/cryptogogos",
         description: "CryptoGOGOs Wiki & Knowledge Base",
         sidebarCategories: {
