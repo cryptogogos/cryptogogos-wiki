@@ -14,6 +14,7 @@ module.exports = {
         githubRepo: "cryptogogos/cryptogogos-wiki",
         githubHost: "https://github.com/",
         twitterHandle: "https://twitter.com/cryptogogos",
+        gaTrackingId: "XFB05CB8P4",
         description: "CryptoGOGOs Wiki & Knowledge Base",
         sidebarCategories: {
           null: ['index', 'about', 'universe', 'trading-cards', 'dist-and-economics', 'faq', 'glossary', 'memes']
