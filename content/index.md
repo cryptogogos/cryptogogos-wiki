@@ -1,7 +1,7 @@
 ---
-title: Introduction
-description: Welcome to the GOGO
----
-CryptoGOGO´s,  their Starships and Planet GOGO itself, are 7777 uniquely generated collectible trading cards. It’s built upon the Ethereum ERC-721 standard that powers most digital art and collectibles. Each card is an NFT (Non-Fungible Token) that can be officially owned by a single person on the Ethereum blockchain.
+title: ABOUT CryptoGOGOs
 
-Just like the “Gogo Crazy Bones” caused disruptions to schools and playgrounds all over the world, CryptoGOGO´s introduce the world to playable NFTs, which will disrupt the digital playground.
+---
+In partnership with Polygon Studios, GOGOcoin is bringing the awesome CryptoGOGOs NFT (trending top 15 on OpenSea during launch) to Polygon! They return with boosting powers to supercharge your yield on GOGOcoin. You can boost your farming and staking rewards by up to 50% by staking your CryptoGOGOs NFT. The CryptoGOGOs NFTs are 7777 unique collectible cards in 3 different rarities: silver, gold, and platinum. The greater the rarity of the NFT the higher the APY boost. On top of that the NFT grants you access to an exclusive channel on the GOGOcoin discord where we share alpha and give out rewards! If that wasn’t enough, the CryptoGOGOs have an exciting future with community initiatives to be announced for a play-to-earn game on the roadmap!
+
+Just like “Gogo Crazy Bones” caused disruptions in schools and playgrounds all over the world, CryptoGOGOs NFTs are here to disrupt NFTs and DeFi. They pave the way for NFT utility in DeFi and the metaverse.
