@@ -17,7 +17,7 @@ module.exports = {
         gaTrackingId: "XFB05CB8P4",
         description: "CryptoGOGOs Wiki & Knowledge Base",
         sidebarCategories: {
-          null: ['index', 'about', 'universe', 'trading-cards', 'dist-and-economics', 'faq', 'glossary', 'memes']
+          null: ['index', 'about', 'universe', 'trading-cards', 'dist-and-economics', 'nft-staking', 'faq', 'glossary', 'memes']
         }
       }
     }
